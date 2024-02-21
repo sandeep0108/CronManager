@@ -9,8 +9,8 @@ namespace NunoMaduro\SkeletonPhp;
  */
 final class Example
 {
-//    public function foo(): string
-//    {
-//        return 'bar';
-//    }
+    public function foo(): string
+    {
+        return 'bar';
+    }
 }

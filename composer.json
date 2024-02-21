@@ -10,7 +10,9 @@
         }
     ],
     "require": {
-        "php": "^8.2.0"
+        "php": "^8.2.0",
+        "illuminate/database": "^10.0",
+        "illuminate/support": "^10.0"
     },
     "require-dev": {
         "laravel/pint": "^1.13.7",
@@ -29,7 +31,7 @@
             "Tests\\": "tests/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
         "sort-packages": true,
