@@ -9,7 +9,7 @@ class CronManagerServiceProvider extends ServiceProvider
     //    public function register(): void
     //    {
     //        $this->app->bind('create-scheduler', function () {
-    //            return new CronServices();
+    //            return new CronManagerController();
     //        });
     //    }
 

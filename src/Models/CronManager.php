@@ -1,11 +1,11 @@
 <?php
 
-namespace NunoMaduro\SkeletonPhp;
+namespace NunoMaduro\SkeletonPhp\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class CronManagerModel extends Model
+class CronManager extends Model
 {
     use HasFactory;
 

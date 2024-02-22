@@ -1,11 +1,11 @@
 <?php
 
-use NunoMaduro\SkeletonPhp\Example;
+//use NunoMaduro\SkeletonPhp\CronManager;
 
-it('foo', function () {
-    $example = new Example();
-
-    $result = $example->foo();
-
-    expect($result)->toBe('bar');
-});
+//it('foo', function () {
+//    $example = new CronManager();
+//
+//    $result = $example->foo();
+//
+//    expect($result)->toBe('bar');
+//});
